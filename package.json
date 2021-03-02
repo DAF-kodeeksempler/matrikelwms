@@ -1,7 +1,7 @@
 {
-  "name": "skaermkortwmts",
+  "name": "matrikelwms",
   "version": "1.0.0",
-  "description": "Kodeeksempel på brug af WMTS skærmkortet fra Datafordeleren",
+  "description": "Kodeeksempel på brug af WMS matrikelkort fra Datafordeleren",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DAF-kodeeksempler/skaermkortwmts.git"
+    "url": "git+https://github.com/DAF-kodeeksempler/matrikelwms.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DAF-kodeeksempler/skaermkortwmts/issues"
+    "url": "https://github.com/DAF-kodeeksempler/matrikelwms/issues"
   },
-  "homepage": "https://github.com/DAF-kodeeksempler/skaermkortwmts#readme",
+  "homepage": "https://github.com/DAF-kodeeksempler/matrikelwms#readme",
   "dependencies": {
     "ol": "^6.5.0",
     "proj4": "^2.7.0"
